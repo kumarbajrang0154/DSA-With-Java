@@ -76,6 +76,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -122,9 +123,14 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
