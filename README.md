@@ -75,10 +75,12 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -105,4 +107,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
