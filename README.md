@@ -68,3 +68,15 @@ Feel free to explore, learn, or use the code for reference.
 ---
 
 ### ⭐ If you find this repository helpful, don’t forget to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
