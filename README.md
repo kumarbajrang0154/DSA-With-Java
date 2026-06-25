@@ -74,9 +74,14 @@ Feel free to explore, learn, or use the code for reference.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
