@@ -110,6 +110,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0283-move-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -290,6 +291,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
