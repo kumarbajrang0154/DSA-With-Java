@@ -122,6 +122,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
 ## Counting Sort
 |  |
 | ------- |
