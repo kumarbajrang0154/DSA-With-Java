@@ -175,6 +175,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0326-power-of-three](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
 |  |
 | ------- |
