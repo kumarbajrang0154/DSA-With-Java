@@ -123,6 +123,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0598-range-addition-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
