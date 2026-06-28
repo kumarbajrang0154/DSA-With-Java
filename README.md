@@ -102,6 +102,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
