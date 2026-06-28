@@ -186,6 +186,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
