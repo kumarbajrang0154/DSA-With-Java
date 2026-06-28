@@ -120,6 +120,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0020-valid-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,4 +205,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
