@@ -106,6 +106,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -131,6 +133,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -244,6 +248,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +265,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
