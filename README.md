@@ -143,6 +143,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0290-word-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0290-word-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -332,4 +335,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
