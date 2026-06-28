@@ -104,6 +104,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
