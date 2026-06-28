@@ -86,6 +86,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0031-next-permutation](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
