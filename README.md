@@ -88,6 +88,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0040-combination-sum-ii) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -193,4 +194,5 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
