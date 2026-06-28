@@ -116,6 +116,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
+| [0598-range-addition-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -191,6 +192,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0504-base-7](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
