@@ -130,6 +130,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0058-length-of-last-word](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
