@@ -272,4 +272,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
