@@ -121,6 +121,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -431,8 +434,10 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
