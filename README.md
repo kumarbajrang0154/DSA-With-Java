@@ -154,6 +154,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
