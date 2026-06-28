@@ -115,6 +115,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0485-max-consecutive-ones](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -293,6 +294,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -315,6 +317,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -408,4 +411,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
