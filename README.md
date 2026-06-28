@@ -179,6 +179,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0367-valid-perfect-square](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
