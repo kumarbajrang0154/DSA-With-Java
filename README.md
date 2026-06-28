@@ -131,6 +131,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +233,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
