@@ -113,6 +113,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -236,6 +238,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,4 +374,20 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
