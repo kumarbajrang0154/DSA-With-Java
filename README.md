@@ -148,6 +148,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
