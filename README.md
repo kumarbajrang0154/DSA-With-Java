@@ -107,6 +107,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -217,6 +218,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
