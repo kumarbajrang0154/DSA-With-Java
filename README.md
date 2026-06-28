@@ -92,6 +92,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -190,6 +191,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0015-3sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
