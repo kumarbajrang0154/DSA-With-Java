@@ -93,6 +93,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
