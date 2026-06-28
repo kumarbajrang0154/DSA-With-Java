@@ -118,6 +118,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -194,6 +195,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0507-perfect-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
