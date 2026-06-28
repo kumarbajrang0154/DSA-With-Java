@@ -136,6 +136,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0014-longest-common-prefix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
