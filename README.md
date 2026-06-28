@@ -249,6 +249,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0520-detect-capital](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
