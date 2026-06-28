@@ -164,6 +164,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0050-powx-n](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
