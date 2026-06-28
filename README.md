@@ -112,6 +112,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
