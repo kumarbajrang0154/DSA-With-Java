@@ -82,6 +82,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0016-3sum-closest](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
@@ -145,6 +146,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0016-3sum-closest](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
