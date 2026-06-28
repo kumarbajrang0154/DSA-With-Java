@@ -90,6 +90,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0039-combination-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -209,4 +211,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
