@@ -94,6 +94,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 ## Memoization
 |  |
 | ------- |
