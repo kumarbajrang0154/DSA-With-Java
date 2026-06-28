@@ -320,6 +320,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0476-number-complement](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0476-number-complement) |
 ## Backtracking
 |  |
 | ------- |
