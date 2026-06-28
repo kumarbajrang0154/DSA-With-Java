@@ -91,6 +91,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0040-combination-sum-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -154,6 +155,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
