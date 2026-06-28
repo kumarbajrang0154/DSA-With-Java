@@ -109,6 +109,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0344-reverse-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,6 +270,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0242-valid-anagram](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
