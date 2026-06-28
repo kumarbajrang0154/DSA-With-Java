@@ -72,46 +72,47 @@ Feel free to explore, learn, or use the code for reference.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0006-zigzag-conversion) |
@@ -119,26 +120,31 @@ Feel free to explore, learn, or use the code for reference.
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
