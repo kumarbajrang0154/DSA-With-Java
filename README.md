@@ -114,6 +114,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -152,6 +153,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -402,4 +404,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
