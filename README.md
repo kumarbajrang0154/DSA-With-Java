@@ -101,6 +101,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +225,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -264,4 +268,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
