@@ -162,6 +162,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
