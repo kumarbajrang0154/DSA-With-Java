@@ -210,6 +210,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -309,6 +312,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
