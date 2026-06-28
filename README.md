@@ -156,6 +156,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -295,4 +297,8 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0182-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
