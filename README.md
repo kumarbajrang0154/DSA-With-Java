@@ -99,6 +99,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -230,6 +231,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
