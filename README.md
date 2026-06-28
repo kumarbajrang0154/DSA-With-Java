@@ -77,11 +77,13 @@ Feel free to explore, learn, or use the code for reference.
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
