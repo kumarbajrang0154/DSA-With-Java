@@ -100,6 +100,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -203,6 +204,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
