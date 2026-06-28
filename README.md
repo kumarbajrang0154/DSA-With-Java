@@ -95,6 +95,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0016-3sum-closest](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
