@@ -209,6 +209,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
