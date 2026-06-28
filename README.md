@@ -185,6 +185,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
 | ------- |
