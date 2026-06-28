@@ -128,6 +128,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0038-count-and-say](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Feel free to explore, learn, or use the code for reference.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
