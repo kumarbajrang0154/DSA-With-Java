@@ -220,6 +220,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
