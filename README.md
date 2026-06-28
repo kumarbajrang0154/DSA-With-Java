@@ -97,6 +97,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -193,6 +194,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
