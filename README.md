@@ -119,12 +119,14 @@ Feel free to explore, learn, or use the code for reference.
 | [0013-roman-to-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
