@@ -72,8 +72,8 @@ Feel free to explore, learn, or use the code for reference.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
@@ -103,6 +103,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0217-contains-duplicate) |
@@ -130,8 +131,8 @@ Feel free to explore, learn, or use the code for reference.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -139,6 +140,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -148,8 +150,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0012-integer-to-roman) |
@@ -174,8 +176,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -183,8 +185,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0009-palindrome-number) |
@@ -216,8 +218,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0728-self-dividing-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0021-merge-two-sorted-lists) |
@@ -227,8 +229,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0006-zigzag-conversion) |
@@ -264,21 +266,21 @@ Feel free to explore, learn, or use the code for reference.
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0015-3sum) |
@@ -304,8 +306,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
@@ -316,8 +318,8 @@ Feel free to explore, learn, or use the code for reference.
 | [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
@@ -325,12 +327,12 @@ Feel free to explore, learn, or use the code for reference.
 | [0605-can-place-flowers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0018-4sum) |
@@ -350,19 +352,19 @@ Feel free to explore, learn, or use the code for reference.
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0136-single-number) |
@@ -373,18 +375,18 @@ Feel free to explore, learn, or use the code for reference.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0476-number-complement) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0040-combination-sum-ii) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
@@ -392,73 +394,73 @@ Feel free to explore, learn, or use the code for reference.
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0128-longest-consecutive-sequence) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0182-duplicate-emails](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0182-duplicate-emails) |
 | [0607-sales-person](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0619-biggest-single-number) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0258-add-digits) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
