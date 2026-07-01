@@ -128,6 +128,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -152,6 +153,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
