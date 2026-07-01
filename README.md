@@ -127,6 +127,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -148,6 +149,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 | Problem Name | Difficulty |
