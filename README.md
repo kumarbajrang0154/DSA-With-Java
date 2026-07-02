@@ -113,6 +113,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0283-move-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0485-max-consecutive-ones) |
@@ -150,6 +151,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0349-intersection-of-two-arrays](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0704-binary-search) |
@@ -326,6 +328,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -333,6 +336,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0011-container-with-most-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -456,6 +460,7 @@ Feel free to explore, learn, or use the code for reference.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
