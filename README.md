@@ -95,6 +95,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0056-merge-intervals](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0162-find-peak-element/) | Medium |
@@ -412,6 +414,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0048-rotate-image](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
 | ------- |
