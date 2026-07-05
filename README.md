@@ -283,6 +283,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0541-reverse-string-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0020-valid-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
