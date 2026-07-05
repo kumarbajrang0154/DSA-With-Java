@@ -235,6 +235,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
