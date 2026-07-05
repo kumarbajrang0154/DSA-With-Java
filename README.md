@@ -287,6 +287,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0541-reverse-string-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
@@ -392,6 +393,7 @@ Feel free to explore, learn, or use the code for reference.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
