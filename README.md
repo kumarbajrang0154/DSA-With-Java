@@ -291,6 +291,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 |  |
@@ -391,6 +392,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
