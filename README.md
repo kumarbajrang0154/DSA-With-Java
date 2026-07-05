@@ -191,6 +191,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
@@ -281,6 +282,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0412-fizz-buzz](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0520-detect-capital) |
@@ -378,6 +380,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -448,6 +451,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0169-majority-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 ## Database
 |  |
 | ------- |
@@ -499,4 +503,12 @@ Feel free to explore, learn, or use the code for reference.
 | ------- |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
