@@ -206,6 +206,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0237-delete-node-in-a-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0392-is-subsequence](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
