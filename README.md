@@ -208,6 +208,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0206-reverse-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0876-middle-of-the-linked-list) |
