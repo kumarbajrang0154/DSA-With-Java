@@ -254,6 +254,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0728-self-dividing-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +269,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0326-power-of-three](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1922-count-good-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
