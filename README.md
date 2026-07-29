@@ -311,6 +311,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -386,6 +387,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0410-split-array-largest-sum](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
@@ -421,6 +423,7 @@ Feel free to explore, learn, or use the code for reference.
 | [0042-trapping-rain-water](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kumarbajrang0154/DSA-With-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
